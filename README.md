@@ -20,5 +20,3 @@ For more ideas, visualizations of all Airbnb datasets can be found <a href="http
 - Which hosts are the busiest and why?
 - Is there any noticeable difference of traffic among different areas and what could be the reason for it?
 - Can you uncover trends in reviews of Airbnb visitors?
-
-## Conclusion
